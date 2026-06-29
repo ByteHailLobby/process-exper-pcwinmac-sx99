@@ -1,4 +1,4 @@
-# 
+# 开源 Process Explorer 脚本 Mac OS版 | 精英 Process Explorer 脚本 PC Windows版。集成 系统信息 和 实时监控，跨平台性能最大化。
 
 
 
